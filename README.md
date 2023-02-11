@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <title>Delu</title>
+    <title></title>
 </head>
 <body>
 <h1>hi delu was here</h1>
